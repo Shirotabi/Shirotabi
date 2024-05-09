@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+TU Delft student currently doing Biomedical Engineering Masters. For more info contact me.
+
 <!--
 **Shirotabi/Shirotabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
